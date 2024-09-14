@@ -1,0 +1,1 @@
+# scraping-oshu-gomi-page
